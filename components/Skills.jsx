@@ -15,7 +15,7 @@ const Skills = () => {
     <Image 
     src='/../public/assets/skills/html.png' 
     width='64' 
-    height='64' alt='/' />
+    height='64' alt='' />
     </div>
     <div className='flex flex-col items-center justify-center'>
         <h3>HTML5</h3>
@@ -28,7 +28,7 @@ const Skills = () => {
     <Image 
     src='/../public/assets/skills/css.png' 
     width='64' 
-    height='64' alt='/' />
+    height='64' alt='' />
     </div>
     <div className='flex flex-col items-center justify-center'>
         <h3>CSS3</h3>
@@ -41,7 +41,7 @@ const Skills = () => {
     <Image 
     src='/../public/assets/skills/javascript.png' 
     width='64' 
-    height='64' alt='/' />
+    height='64' alt='' />
     </div>
     <div className='flex flex-col items-center justify-center'>
         <h3>JAVASCRIPT</h3>
@@ -54,7 +54,7 @@ const Skills = () => {
     <Image 
     src='/../public/assets/skills/react.png' 
     width='64' 
-    height='64' alt='/' />
+    height='64' alt='' />
     </div>
     <div className='flex flex-col items-center justify-center'>
         <h3>REACT</h3>
@@ -67,7 +67,7 @@ const Skills = () => {
     <Image 
     src='/../public/assets/skills/tailwind.png' 
     width='64' 
-    height='64' alt='/' />
+    height='64' alt='' />
     </div>
     <div className='flex flex-col items-center justify-center'>
         <h3>TAILWIND</h3>
@@ -80,7 +80,7 @@ const Skills = () => {
     <Image 
     src='/../public/assets/skills/mongo.png' 
     width='64' 
-    height='64' alt='/' />
+    height='64' alt='' />
     </div>
     <div className='flex flex-col items-center justify-center'>
         <h3>MONGO DB</h3>
@@ -93,7 +93,7 @@ const Skills = () => {
     <Image 
     src='/../public/assets/skills/node.png' 
     width='64' 
-    height='64' alt='/' />
+    height='64' alt='' />
     </div>
     <div className='flex flex-col items-center justify-center'>
         <h3>NODE</h3>
@@ -106,7 +106,7 @@ const Skills = () => {
     <Image 
     src='/../public/assets/skills/nextjs.png' 
     width='64' 
-    height='64' alt='/' />
+    height='64' alt='' />
     </div>
     <div className='flex flex-col items-center justify-center'>
         <h3>NEXTJS</h3>
